@@ -1,6 +1,6 @@
-# Excel Sales Dashboard – 2025
+# Excel Sales Dashboard
 
-This is a clean and interactive Excel dashboard project developed to analyze and present sales data for the year 2025. It demonstrates how Excel can be used effectively for visual reporting, data-driven decision-making, and business insights.
+This is a clean and interactive Excel dashboard project developed to analyze and present sales data . It demonstrates how Excel can be used effectively for visual reporting, data-driven decision-making, and business insights.
 
 ---
 
